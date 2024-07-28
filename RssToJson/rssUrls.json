@@ -1,0 +1,8 @@
+{
+  "rssUrls": [
+    "https://feeds.feedburner.com/TheHackersNews?format=xml",
+    "https://krebsonsecurity.com/feed/",
+    "https://www.darkreading.com/rss.xml",
+    "https://feeds.feedburner.com/eset/blog"
+  ]
+}
