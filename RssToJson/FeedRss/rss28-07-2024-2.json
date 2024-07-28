@@ -1,0 +1,1262 @@
+[
+  {
+    "Title": "French Authorities Launch Operation to Remove PlugX Malware from Infected Systems",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/french-authorities-launch-operation-to.html",
+    "Date": "2024-07-27T11:39:00"
+  },
+  {
+    "Title": "Malicious PyPI Package Targets macOS to Steal Google Cloud Credentials",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/malicious-pypi-package-targets-macos-to.html",
+    "Date": "2024-07-27T11:17:00"
+  },
+  {
+    "Title": "This AI-Powered Cybercrime Service Bundles Phishing Kits with Malicious Android Apps",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/spanish-hackers-bundle-phishing-kits.html",
+    "Date": "2024-07-26T18:47:00"
+  },
+  {
+    "Title": "Offensive AI: The Sine Qua Non of Cybersecurity",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/offensive-ai-sine-qua-non-of.html",
+    "Date": "2024-07-26T16:30:00"
+  },
+  {
+    "Title": "U.S. DoJ Indicts North Korean Hacker for Ransomware Attacks on Hospitals",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/us-doj-indicts-north-korean-hacker-for.html",
+    "Date": "2024-07-26T14:25:00"
+  },
+  {
+    "Title": "Ongoing Cyberattack Targets Exposed Selenium Grid Services for Crypto Mining",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/ongoing-cyberattack-targets-exposed.html",
+    "Date": "2024-07-26T11:49:00"
+  },
+  {
+    "Title": "CrowdStrike Warns of New Phishing Scam Targeting German Customers",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/crowdstrike-warns-of-new-phishing-scam.html",
+    "Date": "2024-07-26T11:22:00"
+  },
+  {
+    "Title": "Critical Flaw in Telerik Report Server Poses Remote Code Execution Risk",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/critical-flaw-in-telerik-report-server.html",
+    "Date": "2024-07-26T09:40:00"
+  },
+  {
+    "Title": "North Korean Hackers Shift from Cyber Espionage to Ransomware Attacks",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/north-korean-hackers-shift-from-cyber.html",
+    "Date": "2024-07-25T19:38:00"
+  },
+  {
+    "Title": "6 Types of Applications Security Testing You Must Know About ",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/6-types-of-applications-security.html",
+    "Date": "2024-07-25T16:50:00"
+  },
+  {
+    "Title": "Meta Removes 63,000 Instagram Accounts Linked to Nigerian Sextortion Scams",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/meta-removes-63000-instagram-accounts.html",
+    "Date": "2024-07-25T15:46:00"
+  },
+  {
+    "Title": "Webinar: Securing the Modern Workspace: What Enterprises MUST Know about Enterprise Browser Security",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/webinar-securing-modern-workspace-what.html",
+    "Date": "2024-07-25T15:28:00"
+  },
+  {
+    "Title": "Researchers Reveal ConfusedFunction Vulnerability in Google Cloud Platform",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/experts-expose-confusedfunction.html",
+    "Date": "2024-07-25T13:59:00"
+  },
+  {
+    "Title": "Critical Docker Engine Flaw Allows Attackers to Bypass Authorization Plugins",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/critical-docker-engine-flaw-allows.html",
+    "Date": "2024-07-25T11:17:00"
+  },
+  {
+    "Title": "CISA Warns of Exploitable Vulnerabilities in Popular BIND 9 DNS Software",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/cisa-warns-of-exploitable.html",
+    "Date": "2024-07-25T11:00:00"
+  },
+  {
+    "Title": "New Chrome Feature Scans Password-Protected Files for Malicious Content",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/new-chrome-feature-scans-password.html",
+    "Date": "2024-07-25T10:51:00"
+  },
+  {
+    "Title": "How a Trust Center Solves Your Security Questionnaire Problem",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/how-trust-center-solves-your-security.html",
+    "Date": "2024-07-24T17:31:00"
+  },
+  {
+    "Title": "Telegram App Flaw Exploited to Spread Malware Hidden in Videos",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/telegram-app-flaw-exploited-to-spread.html",
+    "Date": "2024-07-24T17:29:00"
+  },
+  {
+    "Title": "How to Reduce SaaS Spend and Risk Without Impacting Productivity",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/how-to-reduce-saas-spend-and-risk.html",
+    "Date": "2024-07-24T15:31:00"
+  },
+  {
+    "Title": "Patchwork Hackers Target Bhutan with Advanced Brute Ratel C4 Tool",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/patchwork-hackers-target-bhutan-with.html",
+    "Date": "2024-07-24T15:13:00"
+  },
+  {
+    "Title": "CrowdStrike Explains Friday Incident Crashing Millions of Windows Devices",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/crowdstrike-explains-friday-windows.html",
+    "Date": "2024-07-24T14:02:00"
+  },
+  {
+    "Title": "Microsoft Defender Flaw Exploited to Deliver ACR, Lumma, and Meduza Stealers",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/microsoft-defender-flaw-exploited-to.html",
+    "Date": "2024-07-24T11:45:00"
+  },
+  {
+    "Title": "CISA Adds Twilio Authy and IE Flaws to Exploited Vulnerabilities List",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/cisa-adds-twilio-authy-and-ie-flaws-to.html",
+    "Date": "2024-07-24T11:26:00"
+  },
+  {
+    "Title": "Chinese Hackers Target Taiwan and U.S. NGO with MgBot and MACMA Malware",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/chinese-hackers-target-taiwan-and-us.html",
+    "Date": "2024-07-23T17:58:00"
+  },
+  {
+    "Title": "New ICS Malware 'FrostyGoop' Targeting Critical Infrastructure",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/new-ics-malware-frostygoop-targeting.html",
+    "Date": "2024-07-23T16:24:00"
+  },
+  {
+    "Title": "How to Securely Onboard New Employees Without Sharing Temporary Passwords ",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/how-to-securely-onboard-new-employees.html",
+    "Date": "2024-07-23T15:43:00"
+  },
+  {
+    "Title": "Magento Sites Targeted with Sneaky Credit Card Skimmer via Swap Files",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/magento-sites-targeted-with-sneaky.html",
+    "Date": "2024-07-23T15:42:00"
+  },
+  {
+    "Title": "Meta Given Deadline to Address E.U. Concerns Over 'Pay or Consent' Model",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/meta-given-deadline-to-address-eu.html",
+    "Date": "2024-07-23T15:07:00"
+  },
+  {
+    "Title": "Ukrainian Institutions Targeted Using HATVIBE and CHERRYSPY Malware",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/ukrainian-institutions-targeted-using.html",
+    "Date": "2024-07-23T14:33:00"
+  },
+  {
+    "Title": "Google Abandons Plan to Phase Out Third-Party Cookies in Chrome",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/google-abandons-plan-to-phase-out-third.html",
+    "Date": "2024-07-23T09:58:00"
+  },
+  {
+    "Title": "Experts Uncover Chinese Cybercrime Network Behind Gambling and Human Trafficking",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/experts-uncover-chinese-cybercrime.html",
+    "Date": "2024-07-22T18:35:00"
+  },
+  {
+    "Title": "PINEAPPLE and FLUXROOT Hacker Groups Abuse Google Cloud for Credential Phishing",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/pineapple-and-fluxroot-hacker-groups.html",
+    "Date": "2024-07-22T17:56:00"
+  },
+  {
+    "Title": "How to Set up an Automated SMS Analysis Service with AI in Tines",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/how-to-set-up-automated-sms-analysis.html",
+    "Date": "2024-07-22T16:55:00"
+  },
+  {
+    "Title": "MSPs & MSSPs: How to Increase Engagement with Your Cybersecurity Clients Through vCISO Reporting",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/msps-mssps-how-to-increase-engagement.html",
+    "Date": "2024-07-22T16:11:00"
+  },
+  {
+    "Title": "SocGholish Malware Exploits BOINC Project for Covert Cyberattacks",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/socgholish-malware-exploits-boinc.html",
+    "Date": "2024-07-22T12:15:00"
+  },
+  {
+    "Title": "New Linux Variant of Play Ransomware Targeting VMware ESXi Systems",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/new-linux-variant-of-play-ransomware.html",
+    "Date": "2024-07-22T09:26:00"
+  },
+  {
+    "Title": "Cybercriminals Exploit CrowdStrike Update Mishap to Distribute Remcos RAT Malware",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/cybercriminals-exploit-crowdstrike.html",
+    "Date": "2024-07-20T21:31:00"
+  },
+  {
+    "Title": "17-Year-Old Linked to Scattered Spider Cybercrime Syndicate Arrested in U.K.",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/17-year-old-linked-to-scattered-spider.html",
+    "Date": "2024-07-20T09:58:00"
+  },
+  {
+    "Title": "Faulty CrowdStrike Update Crashes Windows Systems, Impacting Businesses Worldwide",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/faulty-crowdstrike-update-crashes.html",
+    "Date": "2024-07-19T18:08:00"
+  },
+  {
+    "Title": "Two Russian Nationals Plead Guilty in LockBit Ransomware Attacks",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/two-russian-nationals-plead-guilty-in.html",
+    "Date": "2024-07-19T18:00:00"
+  },
+  {
+    "Title": "Safeguard Personal and Corporate Identities with Identity Intelligence",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/safeguard-personal-and-corporate.html",
+    "Date": "2024-07-19T16:30:00"
+  },
+  {
+    "Title": "Pro-Houthi Group Targets Yemen Aid Organizations with Android Spyware",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/pro-houthi-group-targets-yemen-aid.html",
+    "Date": "2024-07-19T14:59:00"
+  },
+  {
+    "Title": "APT41 Infiltrates Networks in Italy, Spain, Taiwan, Turkey, and the U.K.",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/apt41-infiltrates-networks-in-italy.html",
+    "Date": "2024-07-19T12:54:00"
+  },
+  {
+    "Title": "Summary of \"AI Leaders Spill Their Secrets\" Webinar",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/summary-of-ai-leaders-spill-their.html",
+    "Date": "2024-07-19T12:50:00"
+  },
+  {
+    "Title": "SolarWinds Patches 8 Critical Flaws in Access Rights Manager Software",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/solarwinds-patches-11-critical-flaws-in.html",
+    "Date": "2024-07-19T12:43:00"
+  },
+  {
+    "Title": "WazirX Cryptocurrency Exchange Loses $230 Million in Major Security Breach",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/wazirx-cryptocurrency-exchange-loses.html",
+    "Date": "2024-07-19T09:37:00"
+  },
+  {
+    "Title": "Alert: HotPage Adware Disguised as Ad Blocker Installs Malicious Kernel Driver",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/alert-hotpage-adware-disguised-as-ad.html",
+    "Date": "2024-07-18T18:56:00"
+  },
+  {
+    "Title": "AppSec Webinar: How to Turn Developers into Security Champions",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/appsec-webinar-how-to-turn-developers.html",
+    "Date": "2024-07-18T17:15:00"
+  },
+  {
+    "Title": "Automated Threats Pose Increasing Risk to the Travel Industry",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/automated-threats-pose-increasing-risk.html",
+    "Date": "2024-07-18T16:30:00"
+  },
+  {
+    "Title": "SAP AI Core Vulnerabilities Expose Customer Data to Cyber Attacks",
+    "Content": null,
+    "Link": "https://thehackernews.com/2024/07/sap-ai-core-vulnerabilities-expose.html",
+    "Date": "2024-07-18T15:03:00"
+  },
+  {
+    "Title": "Crooks Bypassed Google’s Email Verification to Create Workspace Accounts, Access 3rd-Party Services",
+    "Content": null,
+    "Link": "https://krebsonsecurity.com/2024/07/crooks-bypassed-googles-email-verification-to-create-workspace-accounts-access-3rd-party-services/",
+    "Date": "2024-07-26T21:31:54"
+  },
+  {
+    "Title": "Phish-Friendly Domain Registry “.top” Put on Notice",
+    "Content": null,
+    "Link": "https://krebsonsecurity.com/2024/07/phish-friendly-domain-registry-top-put-on-notice/",
+    "Date": "2024-07-23T19:41:51"
+  },
+  {
+    "Title": "Global Microsoft Meltdown Tied to Bad Crowdstrike Update",
+    "Content": null,
+    "Link": "https://krebsonsecurity.com/2024/07/global-microsoft-meltdown-tied-to-bad-crowstrike-update/",
+    "Date": "2024-07-19T14:24:27"
+  },
+  {
+    "Title": "Researchers: Weak Security Defaults Enabled Squarespace Domains Hijacks",
+    "Content": null,
+    "Link": "https://krebsonsecurity.com/2024/07/researchers-weak-security-defaults-enabled-squarespace-domains-hijacks/",
+    "Date": "2024-07-15T15:24:46"
+  },
+  {
+    "Title": "Crooks Steal Phone, SMS Records for Nearly All AT&T Customers",
+    "Content": null,
+    "Link": "https://krebsonsecurity.com/2024/07/hackers-steal-phone-sms-records-for-nearly-all-att-customers/",
+    "Date": "2024-07-12T18:12:20"
+  },
+  {
+    "Title": "The Stark Truth Behind the Resurgence of Russia’s Fin7",
+    "Content": null,
+    "Link": "https://krebsonsecurity.com/2024/07/the-stark-truth-behind-the-resurgence-of-russias-fin7/",
+    "Date": "2024-07-10T16:22:59"
+  },
+  {
+    "Title": "Microsoft Patch Tuesday, July 2024 Edition",
+    "Content": null,
+    "Link": "https://krebsonsecurity.com/2024/07/microsoft-patch-tuesday-july-2024-edition/",
+    "Date": "2024-07-09T19:50:33"
+  },
+  {
+    "Title": "The Not-So-Secret Network Access Broker x999xx",
+    "Content": null,
+    "Link": "https://krebsonsecurity.com/2024/07/the-not-so-secret-network-access-broker-x999xx/",
+    "Date": "2024-07-03T16:41:34"
+  },
+  {
+    "Title": "KrebsOnSecurity Threatened with Defamation Lawsuit Over Fake Radaris CEO",
+    "Content": null,
+    "Link": "https://krebsonsecurity.com/2024/06/krebsonsecurity-threatened-with-defamation-lawsuit-over-fake-radaris-ceo/",
+    "Date": "2024-06-20T19:16:01"
+  },
+  {
+    "Title": "Alleged Boss of ‘Scattered Spider’ Hacking Group Arrested",
+    "Content": null,
+    "Link": "https://krebsonsecurity.com/2024/06/alleged-boss-of-scattered-spider-hacking-group-arrested/",
+    "Date": "2024-06-15T23:40:20"
+  },
+  {
+    "Title": "China-Backed Phishing Attack Targets India Postal System Users",
+    "Content": null,
+    "Link": "https://www.darkreading.com/endpoint-security/china-backed-smishing-campaign-targets-india-post-users",
+    "Date": "2024-07-29T03:30:00"
+  },
+  {
+    "Title": "Millions of Devices Vulnerable to 'PKFail' Secure Boot Bypass Issue",
+    "Content": null,
+    "Link": "https://www.darkreading.com/endpoint-security/millions-of-devices-vulnerable-to-pkfail-secure-boot-bypass-issue",
+    "Date": "2024-07-26T21:08:33"
+  },
+  {
+    "Title": "CrowdStrike Outage Losses Estimated at a Staggering $5.4B",
+    "Content": null,
+    "Link": "https://www.darkreading.com/cybersecurity-operations/crowdstrike-outage-losses-estimated-staggering-54b",
+    "Date": "2024-07-26T20:36:57"
+  },
+  {
+    "Title": "Targeted PyPi Package Steals Google Cloud Credentials from macOS Devs",
+    "Content": null,
+    "Link": "https://www.darkreading.com/threat-intelligence/targeted-pypi-package-steals-google-cloud-credentials-macos-devs",
+    "Date": "2024-07-26T20:28:55"
+  },
+  {
+    "Title": "Companies Struggle to Recover From CrowdStrike's Crippling Falcon Update",
+    "Content": null,
+    "Link": "https://www.darkreading.com/cybersecurity-operations/companies-struggle-to-recover-from-crowdstrike-crippling-falcon-update",
+    "Date": "2024-07-26T18:28:13"
+  },
+  {
+    "Title": "US Offers $10M Reward for Information on North Korean Hacker",
+    "Content": null,
+    "Link": "https://www.darkreading.com/threat-intelligence/us-offers-10m-reward-for-information-on-north-korean-hacker",
+    "Date": "2024-07-26T18:19:12"
+  },
+  {
+    "Title": "Nvidia Embraces LLMs &amp; Commonsense Cybersecurity Strategy",
+    "Content": null,
+    "Link": "https://www.darkreading.com/cyber-risk/nvidia-embraces-llms-and-commonsense-cybersecurity-strategy",
+    "Date": "2024-07-26T17:27:48"
+  },
+  {
+    "Title": "Distributing Security Responsibilities (Responsibly)",
+    "Content": null,
+    "Link": "https://www.darkreading.com/vulnerabilities-threats/distributing-security-responsibilities-responsibly",
+    "Date": "2024-07-26T14:00:00"
+  },
+  {
+    "Title": "Could Intel Have Fixed Spectre &amp; Meltdown Bugs Earlier?",
+    "Content": null,
+    "Link": "https://www.darkreading.com/vulnerabilities-threats/could-intel-have-fixed-meltdown-spectre-earlier",
+    "Date": "2024-07-26T13:43:47"
+  },
+  {
+    "Title": "Mimecast Joins Human Risk Management Fray With Code42 Deal",
+    "Content": null,
+    "Link": "https://www.darkreading.com/insider-threats/mimecast-joins-human-risk-management-fray-with-code42-deal",
+    "Date": "2024-07-25T21:24:03"
+  },
+  {
+    "Title": "CrowdStrike 'Updates' Deliver Malware &amp; More as Attacks Snowball",
+    "Content": null,
+    "Link": "https://www.darkreading.com/threat-intelligence/crowdstrike-updates-malware-attacks-snowball",
+    "Date": "2024-07-25T20:51:01"
+  },
+  {
+    "Title": "Feds Warn of North Korean Cyberattacks on US Critical Infrastructure",
+    "Content": null,
+    "Link": "https://www.darkreading.com/cyberattacks-data-breaches/feds-warn-of-north-korean-cyberattacks-on-us-critical-infrastructure",
+    "Date": "2024-07-25T20:38:45"
+  },
+  {
+    "Title": "Microsoft's Internet Explorer Gets Revived to Lure in Windows Victims",
+    "Content": null,
+    "Link": "https://www.darkreading.com/threat-intelligence/microsofts-internet-explorer-gets-revived-to-lure-in-windows-victims",
+    "Date": "2024-07-25T19:46:46"
+  },
+  {
+    "Title": "Unexpected Lessons Learned From the CrowdStrike Event",
+    "Content": null,
+    "Link": "https://www.darkreading.com/vulnerabilities-threats/unexpected-lessons-learned-from-the-crowdstrike-event",
+    "Date": "2024-07-25T18:35:21"
+  },
+  {
+    "Title": "Security Firm Accidentally Hires North Korean Hacker, Did Not KnowBe4",
+    "Content": null,
+    "Link": "https://www.darkreading.com/vulnerabilities-threats/security-firm-hires-north-korean-hacker-knowbe4",
+    "Date": "2024-07-25T15:32:05"
+  },
+  {
+    "Title": "Is Our Water Safe to Drink? Securing Our Critical Infrastructure",
+    "Content": null,
+    "Link": "https://www.darkreading.com/ics-ot-security/is-our-water-safe-to-drink-securing-our-critical-infrastructure",
+    "Date": "2024-07-25T14:00:00"
+  },
+  {
+    "Title": "Pro-Palestinian Actor Levels 6-Day DDoS Attack on UAE Bank",
+    "Content": null,
+    "Link": "https://www.darkreading.com/cyberattacks-data-breaches/pro-palestinian-actor-levels-six-day-ddos-on-uae-bank",
+    "Date": "2024-07-25T05:00:00"
+  },
+  {
+    "Title": "Google Will Not Remove Third-Party Cookies From Chrome",
+    "Content": null,
+    "Link": "https://www.darkreading.com/data-privacy/google-will-not-remove-third-party-cookies-from-chrome",
+    "Date": "2024-07-24T22:13:27"
+  },
+  {
+    "Title": "Small Businesses Need Default Security in Products Now",
+    "Content": null,
+    "Link": "https://www.darkreading.com/endpoint-security/small-businesses-need-default-security-in-products-now",
+    "Date": "2024-07-24T22:01:07"
+  },
+  {
+    "Title": "Fighting Third-Party Risk With Threat Intelligence",
+    "Content": null,
+    "Link": "https://www.darkreading.com/threat-intelligence/fighting-third-party-risk-with-threat-intelligence",
+    "Date": "2024-07-24T21:48:44"
+  },
+  {
+    "Title": "Zest Security Aims to Resolve Cloud Risks",
+    "Content": null,
+    "Link": "https://www.darkreading.com/cloud-security/zest-security-aims-to-resolve-cloud-risks",
+    "Date": "2024-07-24T21:25:32"
+  },
+  {
+    "Title": "'Stargazer Goblin' Amasses Rogue GitHub Accounts to Spread Malware",
+    "Content": null,
+    "Link": "https://www.darkreading.com/application-security/stargazer-goblin-amasses-rogue-github-accounts-to-spread-malware",
+    "Date": "2024-07-24T20:35:57"
+  },
+  {
+    "Title": "Cyberattackers Exploit Microsoft SmartScreen Bug in Stealer Campaign",
+    "Content": null,
+    "Link": "https://www.darkreading.com/vulnerabilities-threats/cyberattackers-exploit-microsoft-smartscreen-bug-in-stealer-campaign",
+    "Date": "2024-07-24T18:50:04"
+  },
+  {
+    "Title": "Hamster Kombat Players Threatened by Spyware &amp; Infostealers",
+    "Content": null,
+    "Link": "https://www.darkreading.com/cyber-risk/hamster-kombat-players-threatened-by-spyware-infostealers",
+    "Date": "2024-07-24T16:50:05"
+  },
+  {
+    "Title": "CrowdStrike Blames Crash on Buggy Security Content Update",
+    "Content": null,
+    "Link": "https://www.darkreading.com/endpoint-security/crowdstrike-crash-buggy-security-content-update",
+    "Date": "2024-07-24T14:26:54"
+  },
+  {
+    "Title": "Navigating the Complex Landscape of Web Browser Security",
+    "Content": null,
+    "Link": "https://www.darkreading.com/vulnerabilities-threats/navigating-complex-landscape-web-browser-security",
+    "Date": "2024-07-24T14:00:00"
+  },
+  {
+    "Title": "Russia Adjusts Cyber Strategy for the Long Haul in War With Ukraine",
+    "Content": null,
+    "Link": "https://www.darkreading.com/ics-ot-security/russia-adjusts-cyber-strategy-for-the-long-haul-in-ukraine-war",
+    "Date": "2024-07-23T20:29:26"
+  },
+  {
+    "Title": "China's 'Evasive Panda' APT Spies on Taiwan Targets Across Platforms",
+    "Content": null,
+    "Link": "https://www.darkreading.com/threat-intelligence/china-evasive-panda-apt-spies-taiwan-targets-across-platforms",
+    "Date": "2024-07-23T19:39:56"
+  },
+  {
+    "Title": "Goodbye? Attackers Can Bypass 'Windows Hello' Strong Authentication",
+    "Content": null,
+    "Link": "https://www.darkreading.com/endpoint-security/goodbye-attackers-can-bypass-windows-hello-strong-authentication",
+    "Date": "2024-07-23T19:16:12"
+  },
+  {
+    "Title": "Sprawling CrowdStrike Incident Mitigation Showcases Resilience Gaps",
+    "Content": null,
+    "Link": "https://www.darkreading.com/ics-ot-security/sprawling-crowdstrike-incident-mitigation-showcases-resilience-gaps",
+    "Date": "2024-07-23T18:23:48"
+  },
+  {
+    "Title": "Attackers Exploit 'EvilVideo' Telegram Zero-Day to Hide Malware",
+    "Content": null,
+    "Link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-evilvideo-telegram-zero-day-malware",
+    "Date": "2024-07-23T16:21:16"
+  },
+  {
+    "Title": "Wanted: An SBOM Standard to Rule Them All",
+    "Content": null,
+    "Link": "https://www.darkreading.com/vulnerabilities-threats/wanted-sbom-standard-to-rule-them-all",
+    "Date": "2024-07-23T14:00:00"
+  },
+  {
+    "Title": "Shocked, Devastated, Stuck: Cybersecurity Pros Open Up About Their Layoffs",
+    "Content": null,
+    "Link": "https://www.darkreading.com/cybersecurity-careers/lessons-from-layoffs-in-cybersecurity",
+    "Date": "2024-07-23T13:40:56"
+  },
+  {
+    "Title": "Novel ICS Malware Sabotaged Water-Heating Services in Ukraine",
+    "Content": null,
+    "Link": "https://www.darkreading.com/ics-ot-security/novel-ics-malware-sabotaged-water-heating-services-in-ukraine",
+    "Date": "2024-07-23T09:00:00"
+  },
+  {
+    "Title": "Linx Security Launches With Identity Management Platform",
+    "Content": null,
+    "Link": "https://www.darkreading.com/identity-access-management-security/linx-security-launches-with-identity-management-platform",
+    "Date": "2024-07-22T21:34:02"
+  },
+  {
+    "Title": "Check Point Research Reports Highest Increase of Global Cyber Attacks Seen in Last Two Years",
+    "Content": null,
+    "Link": "https://www.darkreading.com/cyberattacks-data-breaches/check-point-research-reports-highest-increase-of-global-cyber-attacks-seen-in-last-two-years",
+    "Date": "2024-07-22T20:54:53"
+  },
+  {
+    "Title": "Two Foreign Nationals Plead Guilty to Participating in LockBit Ransomware Group",
+    "Content": null,
+    "Link": "https://www.darkreading.com/cyberattacks-data-breaches/two-foreign-nationals-plead-guilty-to-participating-in-lockbit-ransomware-group",
+    "Date": "2024-07-22T20:50:59"
+  },
+  {
+    "Title": "Seemplicity 2024 Remediation Operations Report: Rising Exposure Management Risk",
+    "Content": null,
+    "Link": "https://www.darkreading.com/cybersecurity-operations/seemplicity-2024-remediation-operations-report-rising-exposure-management-risk",
+    "Date": "2024-07-22T20:45:29"
+  },
+  {
+    "Title": "EC-Council Democratizes Hands-On Cybersecurity Training With 8 Cyber Courses",
+    "Content": null,
+    "Link": "https://www.darkreading.com/cybersecurity-operations/ec-council-democratizes-hands-on-cybersecurity-training-with-8-cyber-courses",
+    "Date": "2024-07-22T20:43:57"
+  },
+  {
+    "Title": "Cloud Security Alliance Introduces Certificate of Cloud Security Knowledge",
+    "Content": null,
+    "Link": "https://www.darkreading.com/cloud-security/cloud-security-alliance-sets-new-standard-in-cloud-security-expertise-with-the-certificate-of-cloud-security-knowledge",
+    "Date": "2024-07-22T20:29:12"
+  },
+  {
+    "Title": "Teenage Scattered Spider Suspect Arrested in Global Cybercrime Sting",
+    "Content": null,
+    "Link": "https://www.darkreading.com/cybersecurity-operations/teenage-scattered-spider-suspect-arrested-in-global-cybercrime-sting",
+    "Date": "2024-07-22T18:55:27"
+  },
+  {
+    "Title": "Swipe Right for Data Leaks: Dating Apps Expose Location, More",
+    "Content": null,
+    "Link": "https://www.darkreading.com/application-security/swipe-right-for-data-leaks-dating-apps-expose-location-more",
+    "Date": "2024-07-22T18:18:55"
+  },
+  {
+    "Title": "Threat Hunting Market Worth $6.9B by 2029",
+    "Content": null,
+    "Link": "https://www.darkreading.com/threat-intelligence/threat-hunting-market-worth-6-9b-by-2029",
+    "Date": "2024-07-22T18:02:33"
+  },
+  {
+    "Title": "Russian Hacktivists Sanctioned for US Critical Infrastructure Attacks",
+    "Content": null,
+    "Link": "https://www.darkreading.com/ics-ot-security/russian-hacktivists-sanctioned-attacks-us-critical-infrastructure",
+    "Date": "2024-07-22T17:06:02"
+  },
+  {
+    "Title": "Quantum Leap: Advanced Computing Is a Vulnerable Cyber Target",
+    "Content": null,
+    "Link": "https://www.darkreading.com/cyber-risk/quantum-leap-advanced-computing-vulnerable-cyber-target",
+    "Date": "2024-07-22T16:45:50"
+  },
+  {
+    "Title": "Kaspersky Is an Unacceptable Risk Threatening the Nation's Cyber Defense",
+    "Content": null,
+    "Link": "https://www.darkreading.com/vulnerabilities-threats/kaspersky-is-unacceptable-risk-threatening-nations-cyber-defense",
+    "Date": "2024-07-22T14:00:00"
+  },
+  {
+    "Title": "Chinese Forced-Labor Ring Sponsors Football Clubs, Hides Behind Stealth Tech",
+    "Content": null,
+    "Link": "https://www.darkreading.com/threat-intelligence/chinese-forced-labor-ring-sponsors-football-clubs-hides-behind-stealth-tech",
+    "Date": "2024-07-22T13:00:00"
+  },
+  {
+    "Title": "Fallout From Faulty Friday CrowdStrike Update Persists",
+    "Content": null,
+    "Link": "https://www.darkreading.com/application-security/fallout-from-faulty-friday-crowdstrike-update-persists",
+    "Date": "2024-07-22T12:00:00"
+  },
+  {
+    "Title": "Under-Resourced Maintainers Pose Risk to Africa's Open Source Push",
+    "Content": null,
+    "Link": "https://www.darkreading.com/application-security/under-resourced-maintainers-pose-risk-to-africas-open-source-push",
+    "Date": "2024-07-22T06:00:00"
+  },
+  {
+    "Title": "Buggy CrowdStrike EDR Update Crashes Windows Systems Worldwide",
+    "Content": null,
+    "Link": "https://www.darkreading.com/cyberattacks-data-breaches/crowdstrike-outage",
+    "Date": "2024-07-19T16:57:52"
+  },
+  {
+    "Title": "Telegram for Android hit by a zero-day exploit – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/telegram-android-hit-zero-day-exploit-week-security-tony-anscombe/",
+    "Date": "2024-07-26T11:57:23"
+  },
+  {
+    "Title": "Building cyber-resilience: Lessons learned from the CrowdStrike incident",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/cybersecurity/building-cyber-resilience-lessons-learned-crowdstrike-incident/",
+    "Date": "2024-07-23T12:23:39"
+  },
+  {
+    "Title": "Beyond the blue screen of death: Why software updates matter",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/cybersecurity/beyond-blue-screen-death-software-updates/",
+    "Date": "2024-07-19T16:20:11"
+  },
+  {
+    "Title": "How a signed driver exposed users to kernel-level threats – Week in Security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/adware-kernel-level-threats-week-security-tony-anscombe/",
+    "Date": "2024-07-21T07:24:11"
+  },
+  {
+    "Title": "The complexities of cybersecurity update processes",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/cybersecurity/complexities-cybersecurity-update-processes/",
+    "Date": "2024-07-19T12:28:24"
+  },
+  {
+    "Title": "Cursed tapes: Exploiting the EvilVideo vulnerability on Telegram for Android",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/eset-research/cursed-tapes-exploiting-evilvideo-vulnerability-telegram-android/",
+    "Date": "2024-07-22T09:00:00"
+  },
+  {
+    "Title": "The tap-estry of threats targeting Hamster Kombat players",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/eset-research/tap-estry-threats-targeting-hamster-kombat-players/",
+    "Date": "2024-07-23T09:00:00"
+  },
+  {
+    "Title": "Hello, is it me you’re looking for? How scammers get your phone number",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/scams/hello-is-it-me-youre-looking-for-how-scammers-get-your-phone-number/",
+    "Date": "2024-07-15T11:45:35"
+  },
+  {
+    "Title": "Should ransomware payments be banned? – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/should-ransomware-payments-be-banned-week-security-tony-anscombe/",
+    "Date": "2024-07-12T12:30:20"
+  },
+  {
+    "Title": "Understanding IoT security risks and how to mitigate them | Cybersecurity podcast",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/understanding-iot-security-risks-mitigate-cybersecurity-podcast/",
+    "Date": "2024-07-10T09:30:00"
+  },
+  {
+    "Title": "HotPage: Story of a signed, vulnerable, ad-injecting driver",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/eset-research/hotpage-story-signed-vulnerable-ad-injecting-driver/",
+    "Date": "2024-07-18T09:30:00"
+  },
+  {
+    "Title": "Social media and teen mental health – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/social-media-teen-mental-health-week-security-tony-anscombe/",
+    "Date": "2024-07-04T14:31:24"
+  },
+  {
+    "Title": "5 common Ticketmaster scams: How fraudsters steal the show",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/scams/5-common-ticketmaster-scams-fraudsters-steal-show/",
+    "Date": "2024-07-09T09:30:00"
+  },
+  {
+    "Title": "Small but mighty: Top 5 pocket-sized gadgets to boost your ethical hacking skills",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/cybersecurity/small-but-mighty-top-5-pocket-sized-gadgets-boost-ethical-hacking-skills/",
+    "Date": "2024-07-16T09:30:00"
+  },
+  {
+    "Title": "Key trends shaping the threat landscape in H1 2024 – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/key-trends-shaping-threat-landscape-h1-2024-week-security-tony-anscombe/",
+    "Date": "2024-06-28T13:13:12"
+  },
+  {
+    "Title": "AI in the workplace: The good, the bad, and the algorithmic",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/we-live-progress/ai-workplace-good-bad-algorithmic/",
+    "Date": "2024-07-02T09:30:00"
+  },
+  {
+    "Title": "No room for error: Don’t get stung by these common Booking.com scams",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/scams/common-bookingcom-scams/",
+    "Date": "2024-07-03T09:30:00"
+  },
+  {
+    "Title": "Cyber insurance as part of the cyber threat mitigation strategy",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/business-security/cyber-insurance-part-cyber-threat-mitigation-strategy/",
+    "Date": "2024-06-26T11:31:29"
+  },
+  {
+    "Title": "The long-tail costs of a data breach – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/long-tail-costs-data-breach-week-security-tony-anscombe/",
+    "Date": "2024-06-21T11:54:09"
+  },
+  {
+    "Title": "Buying a VPN? Here’s what to know and look for",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/privacy/buying-vpn-what-know-look-for/",
+    "Date": "2024-06-25T09:30:00"
+  },
+  {
+    "Title": "ESET Threat Report H1 2024",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/eset-research/eset-threat-report-h1-2024/",
+    "Date": "2024-06-27T09:30:00"
+  },
+  {
+    "Title": "Hijacked: How hacked YouTube channels spread scams and malware",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/scams/hijacked-hacked-youtube-channels-scams-malware/",
+    "Date": "2024-07-01T09:30:00"
+  },
+  {
+    "Title": "My health information has been stolen. Now what?",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/privacy/my-health-information-has-been-stolen-now-what/",
+    "Date": "2024-06-20T09:30:00"
+  },
+  {
+    "Title": "Hacktivism is evolving – and that could be bad news for organizations everywhere",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/business-security/hacktivism-evolving-bad-news-organizations-everywhere/",
+    "Date": "2024-06-19T09:30:00"
+  },
+  {
+    "Title": "How Arid Viper spies on Android users in the Middle East – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/arid-viper-spies-android-users-middle-east-week-security-tony-anscombe/",
+    "Date": "2024-06-14T11:58:03"
+  },
+  {
+    "Title": "Preventative defense tactics in the real world",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/business-security/preventative-defense-tactics-real-world/",
+    "Date": "2024-06-17T09:30:00"
+  },
+  {
+    "Title": "ESET Research Podcast: APT Activity Report Q4 2023–Q1 2024",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/podcasts/eset-research-podcast-apt-activity-report-q4-2023-q1-2024/",
+    "Date": "2024-06-14T09:30:00"
+  },
+  {
+    "Title": "Arid Viper poisons Android apps with AridSpy",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/eset-research/arid-viper-poisons-android-apps-with-aridspy/",
+    "Date": "2024-06-13T09:29:00"
+  },
+  {
+    "Title": "WeLiveSecurity wins Best Cybersecurity Vendor Blog award!",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/cybersecurity/welivesecurity-wins-best-cybersecurity-vendor-blog/",
+    "Date": "2024-06-10T15:19:06"
+  },
+  {
+    "Title": "560 million Ticketmaster customer data for sale? – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/560-million-ticketmaster-customer-data-for-sale-week-in-security-with-tony-anscombe/",
+    "Date": "2024-06-07T14:04:40"
+  },
+  {
+    "Title": "The job hunter’s guide: Separating genuine offers from scams",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/scams/the-job-hunters-guide-separating-genuine-offers-from-scams/",
+    "Date": "2024-06-06T09:30:00"
+  },
+  {
+    "Title": "What happens when facial recognition gets it wrong – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/what-happens-facial-recognition-gets-wrong-week-security-tony-anscombe/",
+    "Date": "2024-05-31T13:45:32"
+  },
+  {
+    "Title": "The murky world of password leaks – and how to check if you’ve been hit",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/how-to/the-murky-world-of-password-leaks-and-how-to-check-if-youve-been-hit/",
+    "Date": "2024-06-03T09:30:00"
+  },
+  {
+    "Title": "AI in HR: Is artificial intelligence changing how we hire employees forever?",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/we-live-progress/ai-hr-artificial-intelligence-changing-hire-employees-forever/",
+    "Date": "2024-05-30T09:30:00"
+  },
+  {
+    "Title": "ESET World 2024: Big on prevention, even bigger on AI",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/cybersecurity/eset-world-2024-big-prevention-bigger-ai/",
+    "Date": "2024-05-29T09:30:00"
+  },
+  {
+    "Title": "Mandatory reporting of ransomware attacks? – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/mandatory-reporting-ransomware-attacks-week-security-tony-anscombe/",
+    "Date": "2024-05-24T13:11:17"
+  },
+  {
+    "Title": "Beyond the buzz: Understanding AI and its role in cybersecurity",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/cybersecurity/beyond-buzz-understanding-ai-role-cybersecurity/",
+    "Date": "2024-05-28T09:30:00"
+  },
+  {
+    "Title": "Introducing Nimfilt: A reverse-engineering tool for Nim-compiled binaries",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/eset-research/introducing-nimfilt-reverse-engineering-tool-nim-compiled-binaries/",
+    "Date": "2024-05-23T09:30:00"
+  },
+  {
+    "Title": "What happens when AI goes rogue (and how to stop it)",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/cybersecurity/what-happens-ai-goes-rogue-how-stop-it/",
+    "Date": "2024-05-22T09:30:00"
+  },
+  {
+    "Title": "The who, where, and how of APT attacks – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/who-where-how-apt-attacks-week-security-tony-anscombe/",
+    "Date": "2024-05-17T16:09:11"
+  },
+  {
+    "Title": "Untangling the hiring dilemma: How security solutions free up HR processes",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/business-security/untangling-hiring-dilemma-how-security-solutions-free-up-hr-processes/",
+    "Date": "2024-05-21T09:30:00"
+  },
+  {
+    "Title": "ESET APT Activity Report Q4 2023–Q1 2024",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q4-2023-q1-2024/",
+    "Date": "2024-05-14T10:41:07"
+  },
+  {
+    "Title": "How to talk about climate change – and what motivates people to action: An interview with Katharine Hayhoe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/we-live-science/talk-climate-change-people-action-interview-katharine-hayhoe/",
+    "Date": "2024-05-10T19:44:31"
+  },
+  {
+    "Title": "In it to win it! WeLiveSecurity shortlisted for European Cybersecurity Blogger Awards",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/cybersecurity/welivesecurity-shortlisted-european-security-blogger-awards/",
+    "Date": "2024-05-10T17:36:22"
+  },
+  {
+    "Title": "It's a wrap! RSA Conference 2024 highlights – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/rsac-2024-week-security-tony-anscombe/",
+    "Date": "2024-05-10T11:46:00"
+  },
+  {
+    "Title": "RSA Conference 2024: AI hype overload",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/cybersecurity/rsac-2024-ai-hype-overload/",
+    "Date": "2024-05-09T18:41:39"
+  },
+  {
+    "Title": "To the Moon and back(doors): Lunar landing in diplomatic missions",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/eset-research/moon-backdoors-lunar-landing-diplomatic-missions/",
+    "Date": "2024-05-15T09:15:20"
+  },
+  {
+    "Title": "Ebury is alive but unseen: 400k Linux servers compromised for cryptocurrency theft and financial gain",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/eset-research/ebury-alive-unseen-400k-linux-servers-compromised-cryptotheft-financial-gain/",
+    "Date": "2024-05-14T10:50:52"
+  },
+  {
+    "Title": "Inspiring the next generation of scientists | Unlocked 403: Cybersecurity podcast",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/we-live-science/how-inspire-scientists-unlocked-403-cybersecurity-podcast/",
+    "Date": "2024-05-07T15:23:04"
+  },
+  {
+    "Title": "Pay up, or else? – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/ransomware-ransom-demands-week-security-tony-anscombe/",
+    "Date": "2024-05-03T14:59:04"
+  },
+  {
+    "Title": "Adding insult to injury: crypto recovery scams",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/scams/crypto-recovery-scams-insult-injury/",
+    "Date": "2024-05-02T09:30:00"
+  },
+  {
+    "Title": "How space exploration benefits life on Earth: An interview with David Eicher",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/we-live-science/space-exploration-earth-future-qa-david-eicher/",
+    "Date": "2024-04-29T19:27:05"
+  },
+  {
+    "Title": "Major phishing-as-a-service platform disrupted – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/major-phishing-as-a-service-platform-disrupted-week-security-tony-anscombe/",
+    "Date": "2024-04-26T13:28:12"
+  },
+  {
+    "Title": "MDR: Unlocking the power of enterprise-grade security for businesses of all sizes",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/business-security/mdr-unlocking-the-power-of-enterprise-grade-security-for-businesses-of-all-sizes/",
+    "Date": "2024-04-30T09:30:00"
+  },
+  {
+    "Title": "The hacker’s toolkit: 4 gadgets that could spell security trouble",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/cybersecurity/hackers-toolkit-gadgets-security-trouble/",
+    "Date": "2024-05-06T09:30:00"
+  },
+  {
+    "Title": "What makes Starmus unique? Q&A with award-winning filmmaker Todd Miller",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/we-live-science/what-makes-starmus-unique-qa-award-winning-filmmaker-todd-miller/",
+    "Date": "2024-04-24T09:02:43"
+  },
+  {
+    "Title": "How technology drives progress: Q&A with Nobel laureate Michel Mayor",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/we-live-science/how-technology-drives-progress-qa-nobel-laureate-michel-mayor/",
+    "Date": "2024-04-23T13:33:51"
+  },
+  {
+    "Title": "The vision behind Starmus: Q&A with the festival’s co-founder Garik Israelian",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/we-live-science/vision-behind-starmus-qa-festivals-cofounder-garik-israelian/",
+    "Date": "2024-04-23T09:36:40"
+  },
+  {
+    "Title": "Protecting yourself after a medical data breach – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/protecting-yourself-medical-data-breach-week-security-tony-anscombe/",
+    "Date": "2024-04-19T13:14:39"
+  },
+  {
+    "Title": "The many faces of impersonation fraud: Spot an imposter before it’s too late",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/scams/many-faces-impersonation-fraud-spot-imposter-too-late/",
+    "Date": "2024-04-18T09:30:00"
+  },
+  {
+    "Title": "The ABCs of how online ads can impact children’s well-being",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/kids-online/abcs-online-ads-impact-childrens-well-being/",
+    "Date": "2024-04-16T09:30:00"
+  },
+  {
+    "Title": "eXotic Visit includes XploitSPY malware – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/exotic-visit-exploitspy-malware-week-security-tony-anscombe/",
+    "Date": "2024-04-12T14:05:06"
+  },
+  {
+    "Title": "Bitcoin scams, hacks and heists – and how to avoid them",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/scams/bitcoin-scams-hacks-heists-protect-yourself/",
+    "Date": "2024-04-15T09:30:00"
+  },
+  {
+    "Title": "Beyond fun and games: Exploring privacy risks in children’s apps",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/kids-online/beyond-fun-games-privacy-risks-childrens-apps/",
+    "Date": "2024-04-11T09:30:00"
+  },
+  {
+    "Title": "The devil is in the fine print – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/devil-fine-print-week-security-tony-anscombe/",
+    "Date": "2024-04-05T11:58:04"
+  },
+  {
+    "Title": "Gripped by Python: 5 reasons why Python is popular among cybersecurity professionals",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/secure-coding/python-5-reasons-popular-cybersecurity-professionals/",
+    "Date": "2024-04-25T09:30:00"
+  },
+  {
+    "Title": "RDP remains a security concern – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/rdp-security-concern-week-security-tony-anscombe/",
+    "Date": "2024-03-29T10:24:50"
+  },
+  {
+    "Title": "How often should you change your passwords?",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/cybersecurity/how-often-should-change-passwords/",
+    "Date": "2024-04-03T09:30:00"
+  },
+  {
+    "Title": "Malware hiding in pictures? More likely than you think",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/malware/malware-hiding-in-pictures-more-likely-than-you-think/",
+    "Date": "2024-04-02T09:30:00"
+  },
+  {
+    "Title": "AceCryptor attacks surge in Europe – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/acecryptor-attacks-europe-week-security-tony-anscombe/",
+    "Date": "2024-03-22T12:21:34"
+  },
+  {
+    "Title": "Borrower beware: Common loan scams and how to avoid them",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/scams/borrower-beware-common-loan-scams/",
+    "Date": "2024-03-26T10:30:00"
+  },
+  {
+    "Title": "Cybercriminals play dirty: A look back at 10 cyber hits on the sporting world",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/cybercrime/cybercriminals-play-dirty-10-cyber-hits-sporting-world/",
+    "Date": "2024-03-28T10:30:00"
+  },
+  {
+    "Title": "Cybersecurity starts at home: Help your children stay safe online with open conversations",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/kids-online/cybersecurity-starts-home-children-open-conversations/",
+    "Date": "2024-03-25T10:30:00"
+  },
+  {
+    "Title": "A prescription for privacy protection: Exercise caution when using a mobile health app",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/privacy/prescription-privacy-protection-exercise-caution-mobile-health-app/",
+    "Date": "2024-03-19T10:30:00"
+  },
+  {
+    "Title": "Healthcare still a prime target for cybercrime gangs – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/healthcare-target-cybercrime-week-security-tony-anscombe/",
+    "Date": "2024-03-15T11:20:38"
+  },
+  {
+    "Title": "Threat intelligence explained | Unlocked 403: Cybersecurity podcast",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/threat-intelligence-explained-unlocked-403-cybersecurity-podcast/",
+    "Date": "2024-03-14T13:30:00"
+  },
+  {
+    "Title": "Rescoms rides waves of AceCryptor spam",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/eset-research/rescoms-rides-waves-acecryptor-spam/",
+    "Date": "2024-03-20T10:30:00"
+  },
+  {
+    "Title": "How to share sensitive files securely online",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/how-to/share-sensitive-files-securely-online/",
+    "Date": "2024-03-13T10:30:00"
+  },
+  {
+    "Title": "APT attacks taking aim at Tibetans – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/apt-attacks-tibetans-week-security-tony-anscombe/",
+    "Date": "2024-03-08T12:35:22"
+  },
+  {
+    "Title": "Election cybersecurity: Protecting the ballot box and building trust in election integrity",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/critical-infrastructure/election-cybersecurity-protecting-ballot-box-building-trust-election-integrity/",
+    "Date": "2024-03-12T10:30:00"
+  },
+  {
+    "Title": "Top 10 scams targeting seniors – and how to keep your money safe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/scams/top-10-scams-seniors-how-keep-money-safe/",
+    "Date": "2024-03-06T10:30:00"
+  },
+  {
+    "Title": "Irresistible: Hooks, habits and why you can’t put down your phone",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/we-live-progress/irresistible-hooks-habits-why-you-cant-put-down-your-phone/",
+    "Date": "2024-03-05T10:30:00"
+  },
+  {
+    "Title": "Deceptive AI content and 2024 elections – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/deceptive-ai-content-2024-elections-week-security-tony-anscombe/",
+    "Date": "2024-03-01T11:18:36"
+  },
+  {
+    "Title": "Evasive Panda leverages Monlam Festival to target Tibetans",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/eset-research/evasive-panda-leverages-monlam-festival-target-tibetans/",
+    "Date": "2024-03-07T10:30:00"
+  },
+  {
+    "Title": "eXotic Visit campaign: Tracing the footprints of Virtual Invaders",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/eset-research/exotic-visit-campaign-tracing-footprints-virtual-invaders/",
+    "Date": "2024-04-10T10:31:20"
+  },
+  {
+    "Title": "Vulnerabilities in business VPNs under the spotlight",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/business-security/vulnerabilities-business-vpns-spotlight/",
+    "Date": "2024-02-28T10:30:00"
+  },
+  {
+    "Title": "PSYOP campaigns targeting Ukraine – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/psyop-campaigns-targeting-ukraine-week-security-tony-anscombe/",
+    "Date": "2024-02-23T12:32:29"
+  },
+  {
+    "Title": "10 things to avoid posting on social media – and why",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/social-media/10-things-avoid-posting-social-media-why/",
+    "Date": "2024-02-26T10:30:00"
+  },
+  {
+    "Title": "Cyber-insurance and vulnerability scanning – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/cyber-insurance-and-vulnerability-scanning-week-security-tony-anscombe/",
+    "Date": "2024-02-16T14:05:01"
+  },
+  {
+    "Title": "What is AI, really? | Unlocked 403: Cybersecurity podcast",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/ai-unlocked-403-cybersecurity-podcast/",
+    "Date": "2024-02-15T15:32:31"
+  },
+  {
+    "Title": "Operation Texonto: Information operation targeting Ukrainian speakers in the context of the war",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/eset-research/operation-texonto-information-operation-targeting-ukrainian-speakers-context-war/",
+    "Date": "2024-02-21T05:00:00"
+  },
+  {
+    "Title": "Everything you need to know about IP grabbers",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/cybersecurity/everything-you-need-to-know-about-ip-grabbers/",
+    "Date": "2024-02-22T10:30:00"
+  },
+  {
+    "Title": "Watching out for the fakes: How to spot online disinformation",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/how-to/watching-out-for-the-fakes-how-to-spot-online-disinformation/",
+    "Date": "2024-02-20T10:30:00"
+  },
+  {
+    "Title": "Ransomware payments hit a record high in 2023 – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/ransomware-payments-record-week-security-tony-anscombe/",
+    "Date": "2024-02-09T13:46:14"
+  },
+  {
+    "Title": "Deepfakes in the global election year of 2024: A weapon of mass deception?",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/cybersecurity/deepfakes-election-year-2024-weapon-mass-deception/",
+    "Date": "2024-02-13T10:30:00"
+  },
+  {
+    "Title": "7 reasons why cybercriminals want your personal data",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/privacy/7-reasons-why-cybercriminals-want-your-personal-data/",
+    "Date": "2024-04-08T09:30:00"
+  },
+  {
+    "Title": "Blue Team toolkit: 6 open-source tools to assess and enhance corporate defenses",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/business-security/blue-team-toolkit-6-open-source-tools-corporate-defenses/",
+    "Date": "2024-02-29T10:30:00"
+  },
+  {
+    "Title": "Grandoreiro banking malware disrupted – Week in security with Tony Anscombe",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/videos/grandoreiro-banking-malware-disrupted-week-in-security-with-tony-anscombe/",
+    "Date": "2024-02-02T13:47:24"
+  },
+  {
+    "Title": "The buck stops here: Why the stakes are high for CISOs",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/business-security/buck-stops-stakes-high-cisos/",
+    "Date": "2024-02-08T10:30:00"
+  },
+  {
+    "Title": "Could your Valentine be a scammer? How to avoid getting caught in a bad romance",
+    "Content": null,
+    "Link": "https://www.welivesecurity.com/en/scams/online-dating-scams-avoid-getting-caught-bad-romance/",
+    "Date": "2024-02-05T10:30:00"
+  }
+]
